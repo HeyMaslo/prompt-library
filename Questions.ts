@@ -312,9 +312,43 @@ export const Coaching = [
 ];
 
 export const BehavioralHealth = [
-    'prompt',
+    'How can the people around you help?',
+    'What\'s worrying you? Get it off your chest.',
+    'What did you make today?',
+    'Are you feeling isolated?',
+    'Are you feeling scared or anxious about anything?',
+    'What\'s bothering you?',
+    'How connected are you?',
+    'How are you sleeping?',
+    'Did you go on a walk?',
+    'Do you have kids and how are they doing with this?',
+    'How different is this environment than the one you\'re used to?',
+    'How do you feel about change?',
+    'What do you need to change about your routine?',
 ];
 
-export const Education = [
-    'prompt',
+export const Careers = [
+    'What would make you excited to get up and go to work each morning?',
+    'Tell me about an accomplishment in your career you\'re most proud of.',
+    'What type of environment would you most thrive in?',
+    'Tell me about a difficult situation you\'ve faced, how you overcame it, and what you\'d do differently if faced with it again.',
+    'What feature could we provide to help you with your job search?',
+    'Please tell me how you feel about looking for a job right now?',
+    'Tell me what your dream job would be.',
+    'How do you feel about talking to people and helping them all day at your job?',
+    'What do you think about driving and dealing with traffic as part of your job?',
+    'Tell me what type of manager or boss you most prefer to work for.',
+    'What have your co-workers said about working with you.',
+    'What are your top strengths at work?',
+    'What type of things do you struggle with at work?',
+    'Tell me how you feel about working remotely or from home.',
+    'Please share how you feel about interviewing on video call.',
+    'Let us know what you might be worried about while looking for a job.',
+    'What type of things have you most enjoyed about previous jobs?',
+    'What type of things do you want to avoid in your new job?',
+    'Tell me about the best boss you have ever had and what made them great.',
+    'How do you feel about working as part of a team?',
+    'How do feel about working independently?',
+    'Based on past interviews, what feedback did you receive?',
+    'Are you looking to advance your career, stay at the same level or take a step back from responisbility?',
 ];
