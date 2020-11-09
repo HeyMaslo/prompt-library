@@ -208,10 +208,10 @@ export const Coaching = [
     'prompt',
 ];
 
-export const BehaviorHealth = [
+export const BehavioralHealth = [
     'prompt',
 ];
 
-export const BehaviorHealth = [
+export const Education = [
     'prompt',
 ];
