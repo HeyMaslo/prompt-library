@@ -8,7 +8,7 @@
 ## Overview
 A Companion’s existence gives us a reason to express ourselves, go on adventures, and learn who we are. Companions are similar to Assistants like Siri and Alexa, but with more emphasis on personal growth and development.
 
-This repo contains an ever evolving list of prompts to help encourage a person to think and self reclect. Feel free to add more.
+This repo contains an ever evolving list of prompts to help encourage a person to think and self reflect. Feel free to add more.
 
 ## Contributing
 
